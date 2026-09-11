@@ -1,0 +1,1 @@
+export const required = (value: any) => (value? null : 'Este campo es obligatorio');
